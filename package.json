@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Maksim-Methed/videotube.git"
+    "url": "git+https://github.com/maksim-leskin/videotube.git"
   },
   "keywords": [],
   "author": "Лескин Максим",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Maksim-Methed/videotube/issues"
+    "url": "https://github.com/maksim-leskin/videotube/issues"
   },
-  "homepage": "https://github.com/Maksim-Methed/videotube#readme"
+  "homepage": "https://github.com/maksim-leskin/videotube#readme"
 }
