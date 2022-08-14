@@ -1,5 +1,7 @@
 # videotube
 
+https://youtu.be/j8S0F-rP9v0 - видео-инструкция библиотеки
+
 ## Установка / Install
 
 ```html
